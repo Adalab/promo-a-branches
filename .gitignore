@@ -4,3 +4,5 @@
 # Carpetas privadas de Iván
 bocetos
 documentos
+
+*.DS_Store
